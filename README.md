@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-EmbeddedSystems-informational?style=flat&logo=EmbeddedSystems&color=FF3333)
+![](https://img.shields.io/badge/Code-ARM/STM8(Assembly/Resgister/SPL/LL/HAL)-informational?style=flat&logo=stmicroelectronics&color=3189E7)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=FFFF00)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
