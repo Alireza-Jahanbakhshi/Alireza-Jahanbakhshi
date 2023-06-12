@@ -3,8 +3,8 @@
 😏 I’m Alireza.
 
 🌺 Welcome to my GitHub.
-* 📫 How to reach me alireza.jahanbakhshi@yahoo.com
-* 
+* 🔭 I’m currently working on Leg Massager with Heat and Compression - Feet and Leg Compression Massager for Improved Diabetic Blood Circulation & Muscle Tension       Relief - Multiple Modes & Intensity Levels 
+* 📫 You can reach me at my email: alireza.jahanbakhshi@yahoo.com
 <!--
 **Alireza-Jahanbakhshi/Alireza-Jahanbakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
