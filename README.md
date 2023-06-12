@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+* 📫 How to reach me alireza.jahanbakhshi@yahoo.com
 <!--
 **Alireza-Jahanbakhshi/Alireza-Jahanbakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-EmbeddedSystems-informational?style=flat&logo=EmbeddedSystems&color=FF3333)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=FFFF00)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
