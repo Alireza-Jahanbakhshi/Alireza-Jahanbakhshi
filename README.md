@@ -1,9 +1,38 @@
 ![Alireza Jahanbakhshi Banner Image](./Banner.png)
 ### Hi there 👋
-😏 I’m Alireza.
-
 🌺 Welcome to my GitHub.
-* 🔭 I’m currently working on Leg Massager with Heat and Compression - Feet and Leg Compression Massager for Improved Diabetic Blood Circulation & Muscle Tension       Relief - Multiple Modes & Intensity Levels 
+
+<p align="justify">
+😏 I’m Alireza. I'm an Electrical Management, Firmware/Software Engineer, and Hardware Designer at PIT. I'm also a freelancer who develops embedded software and hardware.
+</p>
+
+### About Me
+<p align="justify"> 
+I was born in Shiraz and raised in C&B, Iran, in 1994. I have been interested in programming and electronics since the early years. After graduating and getting a BSc from the University of Shahrekord, I tried to start my own company in the field of electronics together with my teammates. Finally, we did it in 2020. And now we are a knowledge base company.
+</p>
+
+
+### Interests
+<p align="justify"> 
+I'm passionate about electronics, microcontrollers, firmware development, software development, embedded systems, and PCB design. I love learning about new technologies and experimenting with them.
+</p>
+
+
+### Experience
+<p align="justify"> 
+I have developed firmware for microcontrollers such as STM32 (ARM Cortex-M), STM8, Holtek, PIC, AVR, and so on, using C/C++ for 10+ years. I have 8+ years of official working experience as a firmware engineer developing microcontroller-based products, including research, design, hardware and firmware development, prototype, test, and improvement. I use Altium Designer for schematic capture and PCB design. I develop Windows software using Python and various software to automate hardware tests, calibration, and configuration processes. Since 2018 as a freelancer, I have been involved in multiple projects such as Medical Devices GUI-embedded software using Qt, Emwin, TouchGFX, and Windows software using Python.
+</p>
+
+
+### Hobbies
+<p align="justify"> 
+I spend my leisure time exercising to keep myself healthy and fit. I also love learning English to improve my communication skills. In addition to that, I keep myself up-to-date with new technologies in the field of electronics by reading blogs and attending conferences. Finally, I enjoy teaching online to share my knowledge with others.
+</p>
+
+
+<p align="justify"> 
+* 🔭 I’m currently working on Leg Massager with Heat and Compression - Feet and Leg Compression Massager for Improved Diabetic Blood Circulation & Muscle Tension Relief - Multiple Modes & Intensity Levels 
+</p>
 * 📫 You can reach me at my email: alireza.jahanbakhshi@yahoo.com
 <!--
 **Alireza-Jahanbakhshi/Alireza-Jahanbakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
