@@ -30,9 +30,9 @@ I spend my leisure time exercising to keep myself healthy and fit. I also love l
 </p>
 
 
-<p align="justify"> 
+
 * 🔭 I’m currently working on Leg Massager with Heat and Compression - Feet and Leg Compression Massager for Improved Diabetic Blood Circulation & Muscle Tension Relief - Multiple Modes & Intensity Levels 
-</p>
+
 * 📫 You can reach me at my email: alireza.jahanbakhshi@yahoo.com
 <!--
 **Alireza-Jahanbakhshi/Alireza-Jahanbakhshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
