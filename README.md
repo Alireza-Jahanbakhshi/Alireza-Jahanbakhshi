@@ -20,18 +20,22 @@ I'm passionate about electronics, microcontrollers, firmware development, softwa
 
 ### Experience
 <p align="justify"> 
-I have developed firmware for microcontrollers such as STM32 (ARM Cortex-M), STM8, Holtek, PIC, AVR, and so on, using C/C++ for 10+ years. I have 8+ years of official working experience as a firmware engineer developing microcontroller-based products, including research, design, hardware and firmware development, prototype, test, and improvement. I use Altium Designer for schematic capture and PCB design. I develop Windows software using Python and various software to automate hardware tests, calibration, and configuration processes. Since 2018 as a freelancer, I have been involved in multiple projects such as Medical Devices GUI-embedded software using Qt, Emwin, TouchGFX, and Windows software using Python.
+I have gained valuable experience in RFID technology, specializing in designing high-performance antennas and optimizing RFID systems. This expertise has equipped me with the necessary skills and knowledge to tackle complex challenges in the field.
+
+During my time at PIT Company, I had the opportunity to work on cutting-edge projects, such as developing a smart home automation system utilizing microcontrollers and wireless communication protocols. This experience allowed me to refine my skills in embedded systems design, firmware development, and IoT integration.
+
+I have developed firmware for microcontrollers such as STM32 (ARM Cortex-M), STM8, Holtek, PIC, AVR, and more, using C/C++ for over 10 years. I have 8+ years of official working experience as a firmware engineer, including research, design, hardware and firmware development, prototyping, testing, and improvement. I use Altium Designer for schematic capture and PCB design. I also develop Windows software using Python for hardware tests, calibration, and configuration processes. Since 2018, as a freelancer, I have been involved in multiple projects, such as developing GUI-embedded software for medical devices using Qt, Emwin, TouchGFX, and Windows software using Python.
 </p>
 
 
 ### Hobbies
 <p align="justify"> 
-I spend my leisure time exercising to keep myself healthy and fit. I also love learning English to improve my communication skills. In addition to that, I keep myself up-to-date with new technologies in the field of electronics by reading blogs and attending conferences. Finally, I enjoy teaching online to share my knowledge with others.
+I spend my leisure time exercising to keep myself healthy and fit. I also love learning English to improve my communication skills. In addition, I keep myself up-to-date with new technologies in the field of electronics by reading blogs and attending conferences. Finally, I enjoy teaching online to share my knowledge with others.
 </p>
 
 
-
-* 🔭 I’m currently working on Leg Massager with Heat and Compression - Feet and Leg Compression Massager for Improved Diabetic Blood Circulation & Muscle Tension Relief - Multiple Modes & Intensity Levels 
+### Current Employment
+I am currently employed at PIT Company, where I am involved in developing various devices. In parallel, I am also teaching microprocessor courses at SKU university.
 
 * 📫 You can reach me at my email: alireza.jahanbakhshi@yahoo.com
 <!--
